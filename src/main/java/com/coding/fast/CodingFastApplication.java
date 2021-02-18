@@ -1,13 +1,13 @@
-package com.coding.fast.fast;
+package com.coding.fast;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FastApplication {
+public class CodingFastApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FastApplication.class, args);
+        SpringApplication.run(CodingFastApplication.class, args);
     }
 
 }
